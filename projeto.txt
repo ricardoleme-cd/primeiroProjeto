@@ -1,2 +1,7 @@
 PROJETO INTEGRADOR
 CIÊNCIA DE DADOS PARA NEGÓCIOS
+
+git remote add origin https://github.com/ricardoleme-cd/primeiroProjeto.git 
+git branch -M main
+git push -u origin main
+
